@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Shoaib Ahammed</h1>
 <h3 alig=center">Still Learning </h3>
 <img aling="right" alt="coding" width="400" src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-ahammde&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-ahammde" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -21,6 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib-ahammde&show_icons=true&locale=en&layout=compact" alt="shoaib-ahammde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaib-ahammde&show_icons=true&locale=en" alt="shoaib-ahammde" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib-ahammde&" alt="shoaib-ahammde" /></p>
-
