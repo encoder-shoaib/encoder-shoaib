@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Md Shoaib Ahammed</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center">Hi 👋, I'm Md Shoaib Ahammed</h1>
 <h3 align="center">Still learning</h3>
 <img aling="right" alt="coding" width="400" src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-ahammed-49&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-ahammed-49" /> </p>
@@ -17,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib-ahammed-49&show_icons=true&locale=en&layout=compact" alt="shoaib-ahammed-49" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaib-ahammed-49&show_icons=true&locale=en" alt="shoaib-ahammed-49" /></p>
+
+</body>
+</html>
