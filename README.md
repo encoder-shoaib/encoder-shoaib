@@ -26,7 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib-ahammed-49&show_icons=true&locale=en&layout=compact" alt="shoaib-ahammed-49" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaib-ahammed-49&show_icons=true&locale=en" alt="shoaib-ahammed-49" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaib-ahammed-49&show_icons=true&locale=en" alt="shoaib-ahammed-49" color="blue" /></p>
+
 
 </body>
 </html>
