@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Md Shoaib Ahammed</h1>
-<h3 align="center">Still learning</h3>
+<h3 align="center">Still learning....</h3>
 <img aling="right" alt="coding" width="400" src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-ahammed-49&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-ahammed-49" /> </p>
 
