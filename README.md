@@ -1,3 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="google-site-verification" content="SiURS_yzpXDk6GQRFJn-_VvjEgSgd9gzKx4Hx-0jmnQ" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Md Shoaib Ahammed - GitHub Profile</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0;">
+    <header style="background-color: #282c34; color: white; padding: 20px; text-align: center;">
+        <h1>Hi 👋, I'm <span style="color: #61dafb;">Md Shoaib Ahammed</span></h1>
+        <h3>Passionate Learner | Aspiring Full-Stack Developer</h3>
+    </header>
+<html lang="en">
+<head>
+   <meta name="google-site-verification" content="SiURS_yzpXDk6GQRFJn-_VvjEgSgd9gzKx4Hx-0jmnQ" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 # Hi 👋, I'm Md Shoaib Ahammed  
 ### A Passionate Learner | Aspiring Full-Stack Developer  
 
@@ -41,3 +64,9 @@
 ---
 
 Made with ❤️ by **Md Shoaib Ahammed**
+
+
+</body>
+</html>
+
+
