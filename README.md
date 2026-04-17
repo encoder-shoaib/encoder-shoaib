@@ -17,17 +17,16 @@
 </div>
 
 ---
+### 🧑‍💻 About Me
 
-### 🧑‍💻 About
+Full Stack Web Developer specializing in building scalable and performant web applications using **React, Next.js, Node.js, and MongoDB**. Experienced in **Python automation** and developing secure systems with **SSL integration**.
 
-Full Stack Developer building scalable web apps with React, Next.js, Node.js, and MongoDB. I also work with Python automation and secure SSL systems — turning ideas into real-world solutions.
+Currently focused on improving backend architecture, system design, and building production-ready applications.
 
-- 🎓 CSE @ Daffodil International University, Bangladesh
-- 🌱 Learning — Advanced Backend & System Design
-- 🤝 Open to — Freelance & Collaborations
-- 📫 ahammed15-4955@diu.edu.bd
-- ⚡ I debug with `console.log` and I'm not sorry 😄
-
+- 🎓 CSE Student, Daffodil International University, Bangladesh  
+- 🌱 Focus: Advanced Backend Development & System Design  
+- 🤝 Open to: Freelance opportunities and collaborative projects  
+- 📫 Email: ahammed15-4955@diu.edu.bd  
 ---
 
 ### 🛠️ Tech Stack
