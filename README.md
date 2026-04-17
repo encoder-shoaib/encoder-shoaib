@@ -23,24 +23,23 @@
 
 ## 🧑‍💻 About Me
 
-```js
-const shoaib = {
-  name:       "Md Shoaib Ahammed",
-  university: "Daffodil International University",
-  location:   "Bangladesh 🇧🇩",
-  role:       "Aspiring Full Stack Web Developer",
-  learning:   ["React", "Node.js", "REST APIs", "Tailwind CSS"],
-  email:      "ahammed15-4955@diu.edu.bd",
-  funFact:    "I debug with console.log and I'm not sorry 😄",
-};
-```
+Hey there! I'm **Md Shoaib Ahammed**, a passionate and self-driven web developer from **Bangladesh 🇧🇩**, currently pursuing my degree in **Computer Science & Engineering** at **Daffodil International University**.
 
-- 🎓 Studying **Computer Science & Engineering** at Daffodil International University
-- 🌱 Currently mastering **Full Stack Web Development**
-- 🔭 Building projects to grow my portfolio and real-world experience
-- 🤝 Open to **collaborations**, **open-source contributions**, and **freelance projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, or Bootstrap**
-- 📫 Reach me at **ahammed15-4955@diu.edu.bd**
+I fell in love with web development because of one simple reason — the ability to build something from nothing and share it with the entire world through a browser. That idea still excites me every single day.
+
+I started my journey with the basics — **HTML & CSS** — and gradually worked my way into **JavaScript**, **React**, and **Node.js**. Every project I build teaches me something new, and I genuinely enjoy the process of turning ideas into real, interactive experiences on the web.
+
+Beyond coding, I have a creative side too. I enjoy working with design tools like **Figma**, **Adobe XD**, and **Photoshop**, which helps me think about both the look and the logic of what I build — bridging the gap between design and development.
+
+I'm still learning every day, making mistakes, growing from them, and slowly becoming the developer I want to be. I believe consistency beats talent, and I show up for my craft regardless.
+
+- 🎓 **University:** Daffodil International University, Bangladesh
+- 🌱 **Currently Learning:** Full Stack Web Development (React, Node.js, REST APIs)
+- 🔭 **Goal:** Build impactful, real-world web applications
+- 🤝 **Open to:** Collaborations, open-source contributions & freelance projects
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind
+- 📫 **Email:** ahammed15-4955@diu.edu.bd
+- ⚡ **Fun fact:** I debug with `console.log` and I'm not sorry 😄
 
 ---
 
@@ -77,37 +76,6 @@ const shoaib = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shoaib-ahammed-49&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib-ahammed-49&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-  <br/>
-
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib-ahammed-49&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoaib-ahammed-49&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaib-ahammed-49&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -130,7 +98,6 @@ const shoaib = {
 
 <div align="center">
 
-<!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 *"First, solve the problem. Then, write the code." — John Johnson*
