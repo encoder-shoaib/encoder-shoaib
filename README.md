@@ -32,14 +32,26 @@ Full Stack Developer building scalable web apps with React, Next.js, Node.js, an
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+**Frontend**
+![HTML5](https://img.shields.io/badge/-HTML5-c4b5fd?style=flat-square&logo=html5&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![CSS3](https://img.shields.io/badge/-CSS3-c4b5fd?style=flat-square&logo=css3&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![JavaScript](https://img.shields.io/badge/-JavaScript-c4b5fd?style=flat-square&logo=javascript&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![React](https://img.shields.io/badge/-React-c4b5fd?style=flat-square&logo=react&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![Next.js](https://img.shields.io/badge/-Next.js-c4b5fd?style=flat-square&logo=nextdotjs&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![Tailwind](https://img.shields.io/badge/-Tailwind-c4b5fd?style=flat-square&logo=tailwindcss&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-c4b5fd?style=flat-square&logo=bootstrap&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark&perline=7" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python&theme=dark&perline=7" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux&theme=dark&perline=7" />
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/-Node.js-c4b5fd?style=flat-square&logo=nodedotjs&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![Express](https://img.shields.io/badge/-Express-c4b5fd?style=flat-square&logo=express&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![MongoDB](https://img.shields.io/badge/-MongoDB-c4b5fd?style=flat-square&logo=mongodb&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![Python](https://img.shields.io/badge/-Python-c4b5fd?style=flat-square&logo=python&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
 
-</div>
-
+**Tools**
+![Git](https://img.shields.io/badge/-Git-c4b5fd?style=flat-square&logo=git&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![GitHub](https://img.shields.io/badge/-GitHub-c4b5fd?style=flat-square&logo=github&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![Figma](https://img.shields.io/badge/-Figma-c4b5fd?style=flat-square&logo=figma&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![VS Code](https://img.shields.io/badge/-VS%20Code-c4b5fd?style=flat-square&logo=visualstudiocode&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![Postman](https://img.shields.io/badge/-Postman-c4b5fd?style=flat-square&logo=postman&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
+![Linux](https://img.shields.io/badge/-Linux-c4b5fd?style=flat-square&logo=linux&logoColor=c4b5fd&labelColor=1e1b4b&color=1e1b4b)
 ---
